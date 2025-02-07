@@ -1,0 +1,10 @@
+{
+  "name": "mcp-proxy-server",
+  "version": "0.1.0",
+  "description": "This server acts as a central hub for Model Context Protocol (MCP) resource servers.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
