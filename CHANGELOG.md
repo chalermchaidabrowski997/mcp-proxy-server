@@ -7,3 +7,4 @@
 - chore: fix a small wording issue
 - fix: link the usage section
 - docs: fix a small wording issue
+- fix: link the usage section
