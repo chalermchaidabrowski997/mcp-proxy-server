@@ -11,3 +11,4 @@
 - fix: clarify the setup steps
 - docs: add a note about the defaults
 - chore: fix a small wording issue
+- docs: link the usage section
