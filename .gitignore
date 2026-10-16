@@ -8,3 +8,4 @@ tmp/
 .pytest_cache/
 .cache/
 coverage/
+*.swp
